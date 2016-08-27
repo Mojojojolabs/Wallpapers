@@ -1,0 +1,28 @@
+{
+   "wallpapers": [
+      {
+         "author": "MJ3",
+         "url": "https://raw.githubusercontent.com/Mojojojolabs/Wallpapers/master/TronicRed.jpg",
+         "name": "Tronic Red",
+         "thumbnail": "https://raw.githubusercontent.com/afollestad/polar_json/master/east_branch_thumb.jpg"
+      },
+      {
+         "author": "MJ3",
+         "url": "https://raw.githubusercontent.com/Mojojojolabs/Wallpapers/master/blendown.jpg",
+         "name": "Blendown",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      },
+      {
+         "author": "MJ3",
+         "url": "https://raw.githubusercontent.com/Mojojojolabs/Wallpapers/master/tesaract2.jpg",
+         "name":"Wall6",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+      },
+      {
+         "author": "MJ3",
+         "url": "https://raw.githubusercontent.com/Mojojojolabs/Wallpapers/master/lined.jpg",
+         "name": "Lined",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
+      }
+   ]
+}
